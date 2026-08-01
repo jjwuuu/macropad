@@ -1,0 +1,24 @@
+{
+  "name": "SIIL Macropad Workshop",
+  "vendorId": "0x1209",
+  "productId": "0x0001",
+  "matrix": {
+    "rows": 3,
+    "cols": 3
+  },
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1", "0,2"],
+      ["1,0", "1,1", "1,2"],
+      [
+        {
+          "x": 3.5,
+          "y": -2,
+          "w": 2,
+          "h": 2
+        },
+        "2,0\n\n\n\n\n\n\n\n\ne0"
+      ]
+    ]
+  }
+}
