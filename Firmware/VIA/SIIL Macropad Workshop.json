@@ -6,19 +6,6 @@
     "rows": 3,
     "cols": 3
   },
-  "keycodes": [
-    "qmk_rgblight_keycodes"
-  ],
-  "menus": [
-    "qmk_rgblight"
-  ],
-  "customKeycodes": [
-    {
-      "name": "CYCLE_LAYERS",
-      "title": "Cycle through layers 0-5",
-      "shortName": "Layer+"
-    }
-  ],
   "layouts": {
     "keymap": [
       ["0,0", "0,1", "0,2"],
